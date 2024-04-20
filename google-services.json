@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815535951246",
+    "project_id": "skillful-eon-386013",
+    "storage_bucket": "skillful-eon-386013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815535951246:android:42f3f89f78684096bd68df",
+        "android_client_info": {
+          "package_name": "com.udacity.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815535951246-f15gehsfuihpk2pge8v6lnhke65ad2p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZebriL7ThRCgn5MApyGlwfrp7T3IYGbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815535951246-f15gehsfuihpk2pge8v6lnhke65ad2p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
